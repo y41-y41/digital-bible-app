@@ -1,0 +1,21 @@
+{
+  "short_name": "Bible Reader",
+  "name": "Digital Bible Reader",
+  "description": "An advanced, offline-first KJV Bible study tool with search, favorites, and reading history.",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1f2937",
+  "background_color": "#1f2937"
+}
