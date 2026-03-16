@@ -1,0 +1,6 @@
+{
+  "name": "Copy of Digital Bible Reader",
+  "description": "An advanced, offline-first KJV Bible study tool. Now an installable Progressive Web App (PWA), it works seamlessly offline and can be added to your desktop or home screen. Features include instant full-text search, a dedicated favorites section, audio playback, and reading history.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
