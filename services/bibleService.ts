@@ -2,12 +2,10 @@
 import { ChapterData, SearchResult, Book, FavoriteVerseRef, ResolvedFavorite, BibleVerse, SearchParams, VerseHighlight, ResolvedHighlight } from '../types';
 import { ntData } from '../data/nt-data';
 import { ot1Data } from '../data/ot1-data';
-import { ot2Data } from '../data/ot2-data';
 
 // Consolidate all data into one searchable object
 const bibleData: Record<string, any> = {
     ...ot1Data,
-    ...ot2Data,
     ...ntData
 };
 
